@@ -1,0 +1,3 @@
+projects:
+  nodejs:
+    schemaPath: server/graphql/schema/main.graphql

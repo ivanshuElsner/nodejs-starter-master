@@ -1,0 +1,9 @@
+{
+    "window.zoomLevel": -1,
+    "prettier.singleQuote": true,
+    "prettier.semi": true,
+    "git.enableSmartCommit": true,
+    "files.autoSave": "off",
+    "workbench.colorTheme": "Monokai",
+    "editor.formatOnSave": true
+} // Place your settings in this file to overwrite the default settings

@@ -1,0 +1,8 @@
+{
+  "name": "Start on Heroku: nodejs",
+  "description": "Node JS , Typescript , Express based reactive microservice starter project for REST and GraphQL APIs ",
+  "repository": "https://nodejs-microservice-starter",
+  "logo": "https://nodejs-microservice-starter/blob/master/public/logo.png",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}
